@@ -6008,10 +6008,10 @@ term-size@^1.2.0:
   dependencies:
     execa "^0.7.0"
 
-text-stream-search@^3.0.0:
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/text-stream-search/-/text-stream-search-3.0.2.tgz#790c3d501727e72a2b895d5adb61b85410f5cf58"
-  integrity sha512-qebsDMk+frNq0/FLuq99Zgs4ZK5DPSOwPf+qLA9QF2AxIvo2L7hyeJ5WQ+GuGYcoXxOI1EGOwBlf459IoODYpQ==
+text-stream-search@^4.0.2:
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/text-stream-search/-/text-stream-search-4.0.2.tgz#5347b6d6ca2f434d154c35987dc68a40e2b158b4"
+  integrity sha512-qAgjrraXFOHGO1rHsDyEV4d5IP1iMGp/irZuEv8BAiwUWSvTQ7rdfK/8Owykh4MrK3/spbuBOFUGuxpkiq/vzw==
 
 text-table@^0.2.0, text-table@~0.2.0:
   version "0.2.0"
